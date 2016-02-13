@@ -16,7 +16,7 @@ public class MyApp extends Application {
     @Override
     public void onCreate() {
 
-        SlackClient.init(this, "T0JQ3MR2B/B0KTYUQSD/MuwgL0FZo0aBInteQAZrGNJi");
+        SlackClient.init(this);
 
         super.onCreate();
     }
