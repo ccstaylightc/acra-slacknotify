@@ -1,3 +1,5 @@
+https://travis-ci.org/ccstaylightc/acra-slacknotify.svg?branch=master
+
 # acra-slacknotify
 ACRA integrate with Slack.
 
